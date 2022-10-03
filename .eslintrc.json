@@ -1,0 +1,9 @@
+{
+  "root": true,
+  "extends": ["plugin:n/recommended"],
+  "settings": {
+    "n": {
+      "resolvePaths": ["./lib"]
+    }
+  }
+}
